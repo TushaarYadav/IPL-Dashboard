@@ -1,4 +1,5 @@
 # IPL-Dashboard
+This is a Excel end to end Project.
 
 Developed an IPL Data Analysis Dashboard in Excel, analyzing key insights from IPL seasons 2008-2024 using pivot tables, charts, and advanced Excel functions to visualize team performances, title winners, match outcomes, and player statistics.
 
